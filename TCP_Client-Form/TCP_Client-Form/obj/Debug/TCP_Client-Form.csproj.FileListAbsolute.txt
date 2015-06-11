@@ -1,0 +1,11 @@
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\bin\Debug\TCP_Client-Form.exe.config
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\bin\Debug\TCP_Client-Form.exe
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\bin\Debug\TCP_Client-Form.pdb
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\obj\Debug\TCP_Client-Form.csprojResolveAssemblyReference.cache
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\obj\Debug\TCP_Client_Form.Form1.resources
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\obj\Debug\TCP_Client_Form.Properties.Resources.resources
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\obj\Debug\TCP_Client-Form.csproj.GenerateResource.Cache
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\obj\Debug\TCP_Client-Form.exe
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\obj\Debug\TCP_Client-Form.pdb
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\obj\Debug\TCP_Client_Form.CreateChatRoom.resources
+E:\Egyetem\III. ev\Hálozatok\C#\TCP_Client-Form\TCP_Client-Form\obj\Debug\TCP_Client_Form.JoinChatRoom.resources
